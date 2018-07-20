@@ -2,7 +2,6 @@
 title = "微服务管理"
 description = "开发中对微服务、实例、配置、路由的管理"
 weight = 2
-description = "开发中对微服务、实例、配置、路由的管理"
 +++
 
 # 介绍
